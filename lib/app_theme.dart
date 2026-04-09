@@ -56,3 +56,4 @@ static ThemeData darkTheme = ThemeData(
  );
 }
 
+enum PasswordType {pin,standart}
