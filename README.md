@@ -192,19 +192,6 @@ SnackBar de confirmação: "Senha copiada!"
 
 ---
 
-## 💡 Possíveis Melhorias
-
-- [ ] Implementar controles completos para **minúsculas**, **números** e **símbolos** (campos já existem no estado, mas não renderizados na UI)
-- [ ] Integrar o enum `PasswordComplexity` à lógica de geração (atualmente não afeta o output)
-- [ ] Adicionar **tema escuro** funcional (atualmente `darkTheme` está apontando para `lightTheme`)
-- [ ] Implementar **histórico de senhas** com armazenamento local
-- [ ] Adicionar **indicador visual de força** da senha gerada
-- [ ] Escrever **testes unitários** para os geradores
-- [ ] Implementar **internacionalização** (i18n) para suporte a múltiplos idiomas
-- [ ] Publicar na **Google Play Store** e **App Store**
-
----
-
 ## 👤 Autor
 
 Desenvolvido por **João Victor** — [@QoreLab Solutions](https://qorelab.com.br)
